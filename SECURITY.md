@@ -13,7 +13,7 @@ the newest version before reporting an issue.
 Report privately through one of these channels:
 
 - **GitHub Security Advisories** — preferred. Use the
-  ["Report a vulnerability"](https://github.com/skailar-ai/sdk-rust/security/advisories/new)
+  ["Report a vulnerability"](https://github.com/getskailar/sdk-rust/security/advisories/new)
   button on the repository's Security tab.
 - **Email** — `support@skailar.com` with the subject line `SECURITY: sdk-rust`.
 

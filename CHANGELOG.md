@@ -52,5 +52,5 @@ Shipped already-corrected for bugs fixed in the TypeScript SDK across 0.0.1–0.
   exposed on `ApiError::retry_after`.
 - The SSE parser accepts all three line terminators (`\n`, `\r\n`, `\r`).
 
-[Unreleased]: https://github.com/skailar-ai/sdk-rust/compare/v0.0.1...HEAD
-[0.0.1]: https://github.com/skailar-ai/sdk-rust/releases/tag/v0.0.1
+[Unreleased]: https://github.com/getskailar/sdk-rust/compare/v0.0.1...HEAD
+[0.0.1]: https://github.com/getskailar/sdk-rust/releases/tag/v0.0.1
